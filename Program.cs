@@ -30,7 +30,7 @@ namespace Lista_de_quehaceres_
                 {
                     Console.WriteLine("1) Agregar pendiente");
                     Console.WriteLine("2) Mostrar Pendientes");
-                    Console.WriteLine("3) Mostar Completados");
+                    Console.WriteLine("3) Mostrar Completados");
                     Console.WriteLine("4) Borrar pendiente");
                     Console.WriteLine("5) Completar Pendiente");
                     Console.WriteLine("6) Exportar");
