@@ -1,2 +1,3 @@
 # Lista-de-quehaceres-
-Programa que te permite llevar el seguimiento de pendientes o quehaceres 
+Este programa te permite hacer listas de tareas, organizándolas por
+pendientes y completados.
